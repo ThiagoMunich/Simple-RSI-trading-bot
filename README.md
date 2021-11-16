@@ -2,10 +2,10 @@
 
 This is a simple trading algorithm used in one of my Base 2 Tecnologia presentations.
 
-## Long buy rule
+## Long buy rule 📈
   if RSI indicator is less than 30
   
-## Short sell rule
+## Short sell rule 📉
   if RSI indicator is greater than 70
   
 ## Exit
@@ -14,6 +14,3 @@ This is a simple trading algorithm used in one of my Base 2 Tecnologia presentat
 ## Inputs
   
 The number of contracts, stop loss and take profit levels can be changed by the user directly on MetaTrader 5.
-
-
-
