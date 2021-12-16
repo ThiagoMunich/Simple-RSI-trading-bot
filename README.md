@@ -3,7 +3,7 @@
 This is a simple trading algorithm used in one of my Base 2 Tecnologia presentations.
 
 ## Long buy rule 📈
-  if RSI indicator is less than 30
+  if RSI indicator is lesser than 30
   
 ## Short sell rule 📉
   if RSI indicator is greater than 70
