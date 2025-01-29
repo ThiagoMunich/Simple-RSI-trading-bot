@@ -1,6 +1,6 @@
 # RSI trading bot
 
-This is a simple trading algorithm used in one of my Base 2 Tecnologia presentations.
+This is a fully automated trading algorithm used in one of my Base 2 Tecnologia presentations.
 
 ## Long buy rule 📈
   if RSI indicator is lesser than 30
